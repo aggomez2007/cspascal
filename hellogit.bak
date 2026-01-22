@@ -1,0 +1,4 @@
+program hellogit;
+begin
+writeln('hello github');
+end.
